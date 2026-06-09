@@ -1,0 +1,19 @@
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.chat-window {
+  height: 80vh;
+  overflow-y: auto;
+}
+
+.user {
+  text-align: right;
+  margin: 10px;
+}
+
+.assistant {
+  text-align: left;
+  margin: 10px;
+}
