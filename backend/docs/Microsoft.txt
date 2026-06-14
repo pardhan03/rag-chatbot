@@ -1228,9 +1228,4 @@ its services and its AI investments possibly sidestepping regulatory oversight.[
 In June 2025 Microsoft helped suspend the email account of an International Criminal Court (ICC)
 prosecutor in the Netherlands who was investigating Israel for war crimes in order to comply with a
 Trump executive order.[356][357] In June 2025, a UN expert's report named Microsoft as being "central to
-Israel's surveillance apparatus and the ongoing Gaza destruction."[358]
-
-See also
-List of mergers and acquisitions by Microsoft
-Microsoft engineering groups
-Microsoft Enterprise Agreement
+Israel's surveillance apparatus and the ongoing Gaza destruction.
